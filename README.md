@@ -2,6 +2,17 @@
 
 This project uses both Deep Learning (LSTM) and Machine Learning (Random Forest) models to predict flood occurrence based on various datasets. A user-friendly GUI is provided in `main.ipynb` to facilitate easy interaction and prediction.
 
+> **Note:**  
+> This project was originally developed outside GitHub and later uploaded to this repository.  
+> The following contributors were part of the original development team and are credited for their valuable contributions.
+
+## 👥 Contributors
+- **@ambervs (amber)** — Collaborator  
+- **@jordanlcr (Lee Chong Ren / Jordan)** — Collaborator  
+- **@LeafStardust** — Collaborator  
+- **@Vecrex** — Collaborator  
+- **Your Name** — Lead Developer & Project Manager  
+
 ---
 
 ## 🚀 Getting Started
