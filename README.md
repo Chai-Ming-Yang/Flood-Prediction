@@ -11,7 +11,7 @@ This project uses both Deep Learning (LSTM) and Machine Learning (Random Forest)
 - **@jordanlcr (Lee Chong Ren / Jordan)** — Collaborator  
 - **@LeafStardust** — Collaborator  
 - **@Vecrex** — Collaborator  
-- **Your Name** — Lead Developer & Project Manager  
+- **Chai-Ming-Yang** — Lead Developer & Project Manager  
 
 ---
 
